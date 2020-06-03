@@ -2,7 +2,7 @@
 // @name           Memrise Auto Learn
 // @namespace      https://github.com/cooljingle
 // @description    Fast-track the growth level of words you are planting
-// @match          https://www.memrise.com/course/*/garden/learn*
+// @match          https://www.memrise.com/course/1408268/4h-hd-4-exam-jargon/garden/learn/?source_element=course_mode&source_screen=course_details
 // @version        0.0.12
 // @updateURL      https://github.com/cooljingle/memrise-auto-learn/raw/master/Memrise_Auto_Learn.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-auto-learn/raw/master/Memrise_Auto_Learn.user.js
